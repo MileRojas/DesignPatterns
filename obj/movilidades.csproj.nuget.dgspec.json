@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\milena.rojas\\Documents\\ejemplos react\\webapi\\DesignPatterns\\movilidades\\movilidades.csproj": {}
+    "c:\\Users\\milena.rojas\\Documents\\ejemplos react\\webapi\\movilidades\\movilidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\milena.rojas\\Documents\\ejemplos react\\webapi\\DesignPatterns\\movilidades\\movilidades.csproj": {
+    "c:\\Users\\milena.rojas\\Documents\\ejemplos react\\webapi\\movilidades\\movilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\milena.rojas\\Documents\\ejemplos react\\webapi\\DesignPatterns\\movilidades\\movilidades.csproj",
+        "projectUniqueName": "c:\\Users\\milena.rojas\\Documents\\ejemplos react\\webapi\\movilidades\\movilidades.csproj",
         "projectName": "movilidades",
-        "projectPath": "C:\\Users\\milena.rojas\\Documents\\ejemplos react\\webapi\\DesignPatterns\\movilidades\\movilidades.csproj",
+        "projectPath": "c:\\Users\\milena.rojas\\Documents\\ejemplos react\\webapi\\movilidades\\movilidades.csproj",
         "packagesPath": "C:\\Users\\milena.rojas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\milena.rojas\\Documents\\ejemplos react\\webapi\\DesignPatterns\\movilidades\\obj\\",
+        "outputPath": "c:\\Users\\milena.rojas\\Documents\\ejemplos react\\webapi\\movilidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\milena.rojas\\AppData\\Roaming\\NuGet\\NuGet.Config",
